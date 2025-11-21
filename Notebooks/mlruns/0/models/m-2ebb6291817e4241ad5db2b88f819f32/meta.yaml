@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/marce/Documents/Proyectos%20data/Notebooks/mlruns/0/models/m-2ebb6291817e4241ad5db2b88f819f32/artifacts
+creation_timestamp: 1761618679042
+experiment_id: '0'
+last_updated_timestamp: 1761618690141
+model_id: m-2ebb6291817e4241ad5db2b88f819f32
+model_type: null
+name: model
+source_run_id: 4ecffd7130bb4ba4ab844d907db2036d
+status: 2
+status_message: null

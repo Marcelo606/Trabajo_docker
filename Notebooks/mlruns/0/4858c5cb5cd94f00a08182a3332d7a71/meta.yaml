@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/marce/Documents/Proyectos%20data/Notebooks/mlruns/0/4858c5cb5cd94f00a08182a3332d7a71/artifacts
+end_time: 1761619896673
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4858c5cb5cd94f00a08182a3332d7a71
+run_name: glamorous-elk-250
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761619896597
+status: 3
+tags: []
+user_id: marce

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/marce/Documents/Proyectos%20data/Notebooks/mlruns/0/1cbb50e40cb44defafc9c8dc1959a870/artifacts
+end_time: 1761619522854
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1cbb50e40cb44defafc9c8dc1959a870
+run_name: brawny-wolf-55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761619518801
+status: 3
+tags: []
+user_id: marce

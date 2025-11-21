@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/marce/Documents/Proyectos%20data/Notebooks/mlruns/0/58deea38919a4df5880a05b678dafed5/artifacts
+end_time: 1761624782054
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 58deea38919a4df5880a05b678dafed5
+run_name: marvelous-lamb-962
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761624778809
+status: 3
+tags: []
+user_id: marce

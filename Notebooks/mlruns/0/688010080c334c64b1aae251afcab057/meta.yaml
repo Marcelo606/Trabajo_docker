@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/marce/Documents/Proyectos%20data/Notebooks/mlruns/0/688010080c334c64b1aae251afcab057/artifacts
+end_time: 1761615838253
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 688010080c334c64b1aae251afcab057
+run_name: gregarious-robin-990
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761615838148
+status: 4
+tags: []
+user_id: marce

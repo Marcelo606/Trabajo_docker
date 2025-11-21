@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/marce/Documents/Proyectos%20data/Notebooks/mlruns/0/7cfead64a915480cbe771f9acb608d5e/artifacts
+end_time: 1761615864029
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7cfead64a915480cbe771f9acb608d5e
+run_name: inquisitive-lamb-260
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761615863929
+status: 4
+tags: []
+user_id: marce

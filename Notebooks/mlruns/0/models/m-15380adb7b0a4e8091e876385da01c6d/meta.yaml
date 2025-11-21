@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/marce/Documents/Proyectos%20data/Notebooks/mlruns/0/models/m-15380adb7b0a4e8091e876385da01c6d/artifacts
+creation_timestamp: 1761619901212
+experiment_id: '0'
+last_updated_timestamp: 1761619904643
+model_id: m-15380adb7b0a4e8091e876385da01c6d
+model_type: null
+name: bike_prediction_model
+source_run_id: c9a9d87acb10431fa04942bb06ba30e2
+status: 2
+status_message: null

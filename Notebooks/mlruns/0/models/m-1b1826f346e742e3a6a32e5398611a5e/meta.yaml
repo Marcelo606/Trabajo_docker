@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/marce/Documents/Proyectos%20data/Notebooks/mlruns/0/models/m-1b1826f346e742e3a6a32e5398611a5e/artifacts
+creation_timestamp: 1761619520012
+experiment_id: '0'
+last_updated_timestamp: 1761619522835
+model_id: m-1b1826f346e742e3a6a32e5398611a5e
+model_type: null
+name: best_model
+source_run_id: 1cbb50e40cb44defafc9c8dc1959a870
+status: 2
+status_message: null

@@ -1,0 +1,22 @@
+artifact_path: file:///c:/Users/marce/Documents/Proyectos%20data/Notebooks/mlruns/0/models/m-7edd602719bf4a21a96609e0cb9f28a5/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.9
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.5.1
+model_id: m-7edd602719bf4a21a96609e0cb9f28a5
+model_size_bytes: 393349
+model_uuid: m-7edd602719bf4a21a96609e0cb9f28a5
+prompts: null
+run_id: b7cde17efeb84058844941710017d5d5
+utc_time_created: '2025-10-28 02:46:18.851458'
